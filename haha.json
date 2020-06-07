@@ -1,0 +1,12 @@
+person={
+person1:{
+name:qgg,
+age:22,
+sex:male
+},
+person2:{
+name:yjn,
+age:22,
+sex:male
+}
+}
